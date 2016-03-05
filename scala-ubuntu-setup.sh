@@ -36,4 +36,7 @@ sudo apt-get install sbt -y
 sudo apt-get install nautilus-open-terminal -y
 # Log out and log in for the changes to take effect
 
+# Copy to clipboard
+sudo apt-get install xclip
+
 

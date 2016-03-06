@@ -45,4 +45,7 @@ sudo apt-get update
 sudo apt-get install sublime-text-installer -y
 
 
+# Git config
+git config --global push.default simple
+
 

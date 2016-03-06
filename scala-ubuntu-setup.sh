@@ -39,4 +39,10 @@ sudo apt-get install nautilus-open-terminal -y
 # Copy to clipboard
 sudo apt-get install xclip
 
+# Sublime 3
+sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y
+sudo apt-get update
+sudo apt-get install sublime-text-installer -y
+
+
 
